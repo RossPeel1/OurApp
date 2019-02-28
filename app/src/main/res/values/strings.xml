@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Our App</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter Your Name</string>
+    <string name="Button_Send">Send</string>
+</resources>
